@@ -1,0 +1,11 @@
+.descSearch {
+    background: url(../assets/backgroundImg.png), no-repeat, center;
+    height: 138px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    margin-bottom: 50px;
+    border-radius: 8px;
+}
